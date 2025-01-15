@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Stefania-Larisa Barabas! 👋
 
-<!--
-**larisabarabas/larisabarabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a highly motivated and solution-oriented Software Engineer with over 7 years of experience designing, developing and implementing innovative web applications. 
 
-Here are some ideas to get you started:
+Here's a little bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on various web development projects.
+- 🌱 I’m currently learning Python and I'm working on constantly improving my JS and TS skills.
+- 💬 Ask me about web development, JavaScript, web performance, micro frontend, web design and user experience.
+- 📫 How to reach me: [stefaniabarabas@gmail.com](mailto:stefaniabarabas@gmail.com)
+- ⚡ I'm writing about my dev experience on [Stef's Dev Notes](https://stefsdevnotes.substack.com/)
+
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Typescript, Python, HTML, CSS
+- **Frameworks:** React, Next, Vue, Node.js, Express
+- **Tools:** Git, Docker, Jenkins, VSCode
+- **Databases:** MongoDB, MySQL, PostgreSQL, GraphQL
+- **CMS:** Contentful, Strapi, Sanity
+
+## 📊 GitHub Stats
+![Larisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larisabarabas&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/stefania-barabas/)
+- [Dev.to](https://dev.to/stefania_barabas)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+Thank you for visiting my profile!
