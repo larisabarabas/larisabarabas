@@ -18,9 +18,6 @@ Here's a little bit about me:
 - **Databases:** MongoDB, MySQL, PostgreSQL, GraphQL
 - **CMS:** Contentful, Strapi, Sanity
 
-## 📊 GitHub Stats
-![Larisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larisabarabas&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/stefania-barabas/)
 - [Dev.to](https://dev.to/stefania_barabas)
