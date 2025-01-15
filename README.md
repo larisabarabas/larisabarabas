@@ -13,7 +13,7 @@ Here's a little bit about me:
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Typescript, Python, HTML, CSS
-- **Frameworks:** React, Next, Vue, Node.js, Express
+- **Frameworks:** React, Next, Vue, Node.js, Express, React Native
 - **Tools:** Git, Docker, Jenkins, VSCode
 - **Databases:** MongoDB, MySQL, PostgreSQL, GraphQL
 - **CMS:** Contentful, Strapi, Sanity
