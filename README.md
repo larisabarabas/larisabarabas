@@ -1,6 +1,6 @@
 # Hi there, I'm Stefania-Larisa Barabas! 👋
 
-Welcome to my GitHub profile! I'm a highly motivated and solution-oriented Software Engineer with over 7 years of experience designing, developing and implementing innovative web applications. 
+Welcome to my GitHub profile! I'm a highly motivated and solution-oriented Software Engineer with 8+ years of experience designing, developing and implementing innovative web applications. 
 
 Here's a little bit about me:
 
