@@ -20,8 +20,6 @@ Here's a little bit about me:
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/stefania-barabas/)
-- [Dev.to](https://dev.to/stefania_barabas)
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+- [Substack](https://substack.com/@stefanialarisa)
 
 Thank you for visiting my profile!
