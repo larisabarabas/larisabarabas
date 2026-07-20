@@ -1,25 +1,22 @@
-# Hi there, I'm Stefania-Larisa Barabas! 👋
+# Hi, I'm Stefania-Larisa Barabas 👋
 
-Welcome to my GitHub profile! I'm a highly motivated and solution-oriented Software Engineer with 8+ years of experience designing, developing and implementing innovative web applications. 
+Senior Frontend Engineer with 8+ years of experience building web applications — currently based in Madrid, previously across Romania, Denmark, and Sweden.
 
-Here's a little bit about me:
+## 🔭 What I'm working on
+- Building [Fika for Substack](https://github.com/larisabarabas/fika-for-substack) — a small app that lets Substack writers send short, personal notes to each other about pieces that resonated. The goal is to find out if genuine appreciation can become a growth mechanism within Substack.
+- Exploring AI-assisted tooling and agentic workflows in my day-to-day frontend work
 
-## 🚀 About Me
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning Python and I'm working on constantly improving my JS and TS skills.
-- 💬 Ask me about web development, JavaScript, web performance, micro frontend, web design and user experience.
-- 📫 How to reach me: [stefaniabarabas@gmail.com](mailto:stefaniabarabas@gmail.com)
-- ⚡ I'm writing about my dev experience on [Stef's Dev Notes](https://stefsdevnotes.substack.com/)
+## 🌱 Other projects
+- **Léeme** — a Spanish-learning app built with Next.js, TypeScript and the Claude API
+- **RetroBox** — an AI assisted retrospective tool (Next.js, Typescript, Tailwind CSS + Shadcn, Supabase) that helps product and engineering teams collect notes during the sprint and review them together at the end of the cycle.
+- **Terrarium** *(early concept - ideation)* — merging skincare, reading, and nature micro-rituals into an evolving virtual terrarium
 
-## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Typescript, Python, HTML, CSS
-- **Frameworks:** React, Next, Vue, Node.js, Express, React Native
-- **Tools:** Git, Docker, Jenkins, VSCode
-- **Databases:** MongoDB, MySQL, PostgreSQL, GraphQL
-- **CMS:** Contentful, Strapi, Sanity
+## 💬 Ask me about
+Frontend architecture, AI tooling in dev workflows, product thinking, JavaScript/TypeScript, web performance
 
-## 🔗 Connect with Me
+## ✍️ I write
+[Stef's Dev Notes](https://stefsdevnotes.substack.com/) — on frontend development, AI tooling, and product thinking
+
+## 🔗 Find me
 - [LinkedIn](https://www.linkedin.com/in/stefania-barabas/)
 - [Substack](https://substack.com/@stefanialarisa)
-
-Thank you for visiting my profile!
