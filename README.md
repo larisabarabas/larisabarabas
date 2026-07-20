@@ -3,7 +3,7 @@
 Senior Frontend Engineer with 8+ years of experience building web applications — currently based in Madrid, previously across Romania, Denmark, and Sweden.
 
 ## 🔭 What I'm working on
-- Building [Fika for Substack](https://github.com/larisabarabas/fika-for-substack) — a small app that lets Substack writers send short, personal notes to each other about pieces that resonated. The goal is to find out if genuine appreciation can become a growth mechanism within Substack.
+- Building [Fika for Substack](https://github.com/larisabarabas/fika-table-substack-experiment) — a small app that lets Substack writers send short, personal notes to each other about pieces that resonated. The goal is to find out if genuine appreciation can become a growth mechanism within Substack.
 - Exploring AI-assisted tooling and agentic workflows in my day-to-day frontend work
 
 ## 🌱 Other projects
