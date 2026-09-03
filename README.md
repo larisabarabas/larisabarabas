@@ -7,16 +7,18 @@ Senior Frontend Engineer with 8+ years of experience building web applications �
 - Exploring AI-assisted tooling and agentic workflows in my day-to-day frontend work
 
 ## 🌱 Other projects
-- **Léeme** — a Spanish-learning app built with Next.js, TypeScript and the Claude API
 - **RetroBox** — an AI assisted retrospective tool (Next.js, Typescript, Tailwind CSS + Shadcn, Supabase) that helps product and engineering teams collect notes during the sprint and review them together at the end of the cycle.
 - **Terrarium** *(early concept - ideation)* — merging skincare, reading, and nature micro-rituals into an evolving virtual terrarium
+- **Huecode** *(work in progress) - a tool that turns a theme description or an image into a complete 8-role TailwindCSS color system, each expanded into a full 11-shade scale with live preview in a demo dashboard, a component kit, and a marketing page, in light and dark mode.
+- **Léeme** — a Spanish-learning app built with Next.js, TypeScript and the Claude API
 
 ## 💬 Ask me about
-Frontend architecture, AI tooling in dev workflows, product thinking, JavaScript/TypeScript, web performance
+Frontend architecture, AI tooling in dev workflows, product thinking, JavaScript/TypeScript, web performance, building from scratch, tech in general.
 
 ## ✍️ I write
 [Stef's Dev Notes](https://stefsdevnotes.substack.com/) — on frontend development, AI tooling, and product thinking
 
 ## 🔗 Find me
+- [Portfolio](https://www.stefaniabarabas.com/)
 - [LinkedIn](https://www.linkedin.com/in/stefania-barabas/)
 - [Substack](https://substack.com/@stefanialarisa)
