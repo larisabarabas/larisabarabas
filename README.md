@@ -1,6 +1,6 @@
 # Hi, I'm Stefania-Larisa Barabas 👋
 
-Senior Frontend Engineer with 8+ years of experience building web applications — currently based in Madrid, previously across Romania, Denmark, and Sweden.
+Senior Engineer and Designer.
 
 ## What I'm working on
 - Building [Fika for Substack](https://github.com/larisabarabas/fika-table-substack-experiment) — a small app that lets Substack writers send short, personal notes to each other about pieces that resonated. The goal is to find out if genuine appreciation can become a growth mechanism within Substack.
